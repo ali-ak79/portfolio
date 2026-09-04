@@ -1,0 +1,13 @@
+#side{
+    height: 80vh;
+    width: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+#side>a>img{
+    height: 40px;
+    width: 40px;
+}
